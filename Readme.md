@@ -1,7 +1,3 @@
-contract address: 0xc1b7cf37a7eebafce2bd4c3a5e394b2060460805301d6a81111f58b7464bdcab
-screenshot: ![image](https://github.com/user-attachments/assets/ca53113a-5901-4e9a-afdc-40f544770b98)
-
-
 # Student Identity Verification on Blockchain
 
 ## Vision
